@@ -1,0 +1,6 @@
+name: Exercício Lógica de programação (print)
+type: dart
+steps:
+  - name: Step 1
+    directory: step_01
+  
