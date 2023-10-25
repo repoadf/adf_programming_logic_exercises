@@ -9,4 +9,4 @@ Sendo assim crie abaixo as variáveis para armazenar:
 4. **Peso;**
 
 
-## Não precisa se preocupar muito com os valores pense e tente descobrir quais seriam os tipos de cada uma das variáveis para esse algoritimo
+### Não precisa se preocupar muito com os valores pense e tente descobrir quais seriam os tipos de cada uma das variáveis para esse algoritimo
